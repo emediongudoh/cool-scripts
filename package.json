@@ -1,0 +1,15 @@
+{
+    "name": "cool-scripts",
+    "version": "1.0.0",
+    "main": "count-video-files.js",
+    "devDependencies": {
+        "prettier": "^3.3.3"
+    },
+    "scripts": {
+        "format": "prettier --write ."
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
